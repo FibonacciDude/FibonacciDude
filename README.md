@@ -1,5 +1,6 @@
 ### The Singularity Is Nearest
-Currently working automatizing stuff ( like cars )
+Currently working automatizing stuff ( like cars ).
+
 Watch out!
 
 <!--
