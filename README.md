@@ -1,4 +1,6 @@
-### Hi there 👋
+### The Singularity Is Nearest
+Currently working automatizing stuff ( like cars )
+Watch out!
 
 <!--
 **FibonacciDude/FibonacciDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
