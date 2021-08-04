@@ -1,3 +1,1 @@
-### Fibi
-
-Learning things.
+### Dated phrase
