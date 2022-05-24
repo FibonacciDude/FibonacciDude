@@ -1,4 +1,4 @@
 ### Omleda but backwards
 
 
-Technical blogging @fibonaccidude.github.io/personal-site
+Technical blogging at https://fibonaccidude.github.io/personal-site/
