@@ -1,4 +1,4 @@
 ### Omleda but backwards
 
 
-blogging at omleda.com
+blogging at www.omleda.com
