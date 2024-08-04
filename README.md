@@ -1,4 +1,4 @@
 ### Omleda but backwards
 
 
-(soon) blogging at www.notadelmo.com
+site at www.omleda.com
